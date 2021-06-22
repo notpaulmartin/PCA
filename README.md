@@ -1,5 +1,7 @@
 # Intuitive PCApproximation
 
+**To the notebook:** https://deepnote.com/@notpaulmartin/PCApproximation-PIgieYKmR5aaz3DVjLKqdg
+
 This is an exploration into Principal Component Analysis (PCA) with the aim to explain to myself (and potentially others) in an intuitive way how PCA works.
 
 I managed to create an algorithm that, while not as efficient as typical implementations of PCA (e.g. [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)), still runs reasonably quickly and, most importantly, is rather easy to understand – at least so I think.
